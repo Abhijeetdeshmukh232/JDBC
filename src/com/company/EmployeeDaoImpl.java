@@ -1,46 +1,4 @@
 package com.company;
-//
-//import java.sql.Connection;
-//import java.sql.SQLException;
-//import java.sql.Statement;
-//import java.util.List;
-//
-//public class EmployeeDaoImpl implements Employeedao{
-//
-//    private static Statement statement = null;
-//    private Connection conn;
-//
-//    public EmployeeDaoImpl() throws SQLException {
-//        conn = ConnectionFactory.getConnection();
-//        statement = conn.createStatement();
-//    }
-//
-//    @Override
-//    public void addEmployee(Employee employee) {
-//
-//    }
-//
-//    @Override
-//    public void updateEmployee(Employee employee) {
-//
-//    }
-//
-//    @Override
-//    public void deleteEmployee(Employee employee) {
-//
-//    }
-//
-//    @Override
-//    public Employee getEmployeeById(int empId) {
-//        return null;
-//    }
-//
-//    @Override
-//    public List<Employee> getEmployees() {
-//        return null;
-//    }
-//}
-
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;

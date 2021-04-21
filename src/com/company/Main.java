@@ -1,18 +1,5 @@
 package com.company;
 
-//import java.sql.SQLException;
-//
-//public class Main {
-//
-//    public static void main(String[] args) throws SQLException {
-//        // write your code here
-//        Employeedao dao = EmployeeDaoFactory.getEmployeedao();
-//        Employee employee = new Employee(1, "mark", "m@gmail.com");
-//        dao.addEmployee(employee);
-//
-//    }
-//}
-
 import java.sql.SQLException;
 import java.sql.SQLOutput;
 import java.util.List;

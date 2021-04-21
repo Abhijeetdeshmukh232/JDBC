@@ -34,7 +34,7 @@ public class ConnectionFactory {
 //
 //    public static Connection getConnection() throws SQLException {
 //        if(conn==null){
-//           ResourceBundle bundle = ResourceBundle.getBundle("src/com/company/dbConfig");
+//           ResourceBundle bundle = ResourceBundle.getBundle("com/company/dbConfig");
 //            String dc = bundle.getString("driverClass");
 //            String url = bundle.getString("url");
 //            String username = bundle.getString("username");
